@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "Offer18SDK",
             url: "https://github.com/ganesh-o18/o18isdk/releases/download/0.0.1/Offer18SDK.xcframework.zip",
-            checksum: "f52f6a5f9e1a94f6e1848968a91a0b44128872e42c27fc7eeb9c0ff273a4962b"
+            checksum: "e0eb7ca1dd965876db17626c5044cbbb8f2579495850d4ed6124474ce3ae5a98"
         )
     ]
 )
